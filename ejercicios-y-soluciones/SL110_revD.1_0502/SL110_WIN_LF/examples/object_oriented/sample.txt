@@ -1,0 +1,14 @@
+The weight is 453
+Already on bottom floor.
+2
+3
+The weight is 899
+2
+Doors still open!
+The weight is 974
+1
+Already on bottom floor.
+2
+3
+4
+5

@@ -1,0 +1,84 @@
+public class PrivateElevator2 {
+
+  private boolean doorOpen=false;
+  private int floor = 1;
+  private int weight = 0;
+
+  final int CAPACITY = 1000;
+  final int TOP_FLOOR = 5;
+  final int BOTTOM_FLOOR = 1;
+  
+  public void openDoor() {
+    doorOpen = true;
+  }
+  
+  public void closeDoor() {
+    calculateCapacity();
+
+    if (weight <= CAPACITY) {
+      doorOpen = false;
+    }
+    else {
+      System.out.println("The elevator has exceeded capacity.");
+      System.out.println("Doors will remain open until someone exits!");
+    }
+  }
+
+  // In reality. the elevator would have weight sensors to
+  // check the actual weight in the elevator, but for the sake
+  // of simplicity we just pick a random number to represent the
+  // weight in the elevator
+
+   public void calculateCapacity() {
+    weight = (int) (Math.random() * 1500);
+    System.out.println("The weight is " + weight);
+  }
+
+  public void goUp() {
+    if (!doorOpen) {
+      if (floor < TOP_FLOOR) {
+	floor++;
+	System.out.println(floor);
+      }
+      else {
+	System.out.println("Already on top floor.");
+      }
+    }
+    else {
+      System.out.println("Doors still open!");
+    }
+  }
+
+  public void goDown() {
+    if (!doorOpen) {
+      if (floor > BOTTOM_FLOOR) {
+	floor--;
+	System.out.println(floor);
+      }
+      else {
+	System.out.println("Already on bottom floor.");
+      }
+     }
+     else {
+       System.out.println("Doors still open!");
+     }
+  }
+
+  public void setFloor(int floor) {
+    while (floor != goal)
+      if (floor < goal) {
+	goUp();
+      }
+      else {
+	goDown();
+      }
+  }
+
+  public int getFloor() {
+    return floor;
+  }
+
+  public boolean getDoorStatus() {
+    return doorOpen;
+  }
+}

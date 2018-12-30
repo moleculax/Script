@@ -1,0 +1,14 @@
+public class Order {
+
+  public int orderID = 0; // Default ID for the order
+  public Date;
+  
+  public totalPrice = 0;
+  
+  addShirt(
+
+  } // end of display method
+} // end of class
+
+
+

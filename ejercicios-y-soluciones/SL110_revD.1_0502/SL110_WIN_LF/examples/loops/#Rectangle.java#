@@ -1,0 +1,22 @@
+public class Rectangle {
+ 
+  int height = 3;
+  int width = 10;
+  int colCount = 0;
+  int rowCount;
+
+}   
+
+  void displayRectangle() {
+
+    while (colCount < height) {
+      rowCount = 0;
+      while (rowCount < width) {
+	System.out.print(`@');
+}
+}    rowCount++;
+}
+    System.out.println();
+    colCount++;
+    }
+  }

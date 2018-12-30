@@ -1,0 +1,14 @@
+public class ContinueName {
+
+  String myString = "Hello, my name is Charles.";
+  
+  public void searchString() {
+
+    while (!stream.eof()) {
+      token = stream.next();
+      if (token.equals("skip")) {
+	continue;
+      }
+      
+  }
+}
