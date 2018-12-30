@@ -1,0 +1,15 @@
+Math.random devuelve números doubles entre 0 y 1. Una forma de transformar
+este número a entero puede ser:
+
+int entero=(int)(Math.random()*1000);
+
+Donde el valor 1000 puede ser cualquiera. Sólo lo utilizo para rodar la coma
+en el número decimal.
+
+Si lo que quieres es que el número aleatorio posea un rango, puedes hacer:
+
+int entero2=((int)(Math.random()*1000))%100;
+
+Por favor indícame si esta era la duda que tenias.
+
+Saludos cordiales

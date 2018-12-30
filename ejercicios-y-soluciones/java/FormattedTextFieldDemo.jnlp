@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JNLP File for FormattedTextFieldDemo -->
+<jnlp
+  spec="1.0+"
+  codebase="http://java.sun.com/docs/books/tutorialJWS/uiswing/components/examples"
+  href="FormattedTextFieldDemo.jnlp">
+  <information>
+    <title>FormattedTextFieldDemo</title>
+    <vendor>The Java(tm) Tutorial: Sun Microsystems, Inc.</vendor>
+    <homepage href="http://java.sun.com/docs/books/tutorial/uiswing/components/examples/index.html#FormattedTextFieldDemo"/>
+    <description>FormattedTextFieldDemo</description>
+    <description kind="short">A demo that uses formatted text fields to implement a mortage payment calculator.</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+"/>
+    <jar href="allClasses.jar"/>
+  </resources>
+  <application-desc main-class="FormattedTextFieldDemo"/>
+</jnlp> 

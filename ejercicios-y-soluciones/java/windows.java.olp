@@ -1,0 +1,36 @@
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+
+public class windows extends JFrame
+{
+  
+ /*
+    public windows()
+    {
+        this.setSize(400,500);
+        this.setTitle("Primera Aplicacion Swing");
+        this.setVisible(true);
+    }
+   */
+
+
+
+    public static void main(String []args)
+    {
+        new windows();
+		
+        JFrame jFrameWindow = new JFrame();
+	
+		
+        jFrameWindow.setSize(800,600);
+        /* se puede sustituir  por pack() para
+         * que java calcule automaticamente el tama\~no
+         * que necesita.
+         */
+        jFrameWindow.setTitle("ESTA ES UNA VENTANA  Swing");
+        jFrameWindow.setVisible(true);
+	
+	//System.exit(0);
+    }
+}

@@ -1,0 +1,18 @@
+public class DateThreeTest {
+
+  public static void main(String args[]) {
+
+    DateThree d1 = new DateThree();
+    DateThree d2 = new DateThree();
+    int days;
+
+
+    d.setDate(10, 2, 2001);
+ 
+    days = d.calcDaysInMonth();
+    System.out.println("Days in Month:" + days);
+
+    d.display();
+
+  } // end main
+} // end class

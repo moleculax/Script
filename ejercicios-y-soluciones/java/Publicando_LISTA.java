@@ -1,0 +1,27 @@
+public class Publicando_LISTA {
+String punto[] = new String[5];
+public static void main(String args[]) {
+	Publicando_LISTA b = new Publicando_LISTA();
+	b.lpuntos();
+	b.imprimelo();
+	}
+public void lpuntos(){
+
+
+punto[0] = "La charla  en la U.E Andres Eloy se tiene que planificar enfocandola en lo relacionado al       SL y el Software educativo";  
+punto[1] =  "La reunion en la  Div. de Org y Sistemas puede ser la proxima semana";  
+punto[2] = "Tenemos que retomar lo de la venta de los CD";  
+punto[3] = "El que nerissa nos ensene a lavarnos el pelo seria interesante";
+punto[4] = "Como todo no puede ser trabajo creo que debemos reunirnos uno de estos dias para compartir y   conocernos mas";
+ 
+	}
+public void imprimelo(){
+
+ for(int i=0; i< 5; i++){
+                System.out.println("*"+punto[i]);
+	}
+}
+	}
+		
+
+

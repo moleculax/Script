@@ -1,0 +1,26 @@
+public class arreglo0{
+String Frutas[]= new String[6];
+public static void main(String argv[]){
+     arreglo0 b = new arreglo0();
+     b.listaArreglo();
+     b.imprimelos();
+     }
+     public void listaArreglo(){
+           Frutas[0]="Manzanas";
+           Frutas[1]="Naranjas";
+           Frutas[2]="Limones";
+           Frutas[3]="Mango";
+	   Frutas[4]="Cocos";
+	   Frutas[5]="Lechosas"; 
+     }
+     public void imprimelos(){
+           System.out.println("EJEMPLO DE ARREGLOS:");
+           for(int i=0; i< 6; i++){
+                System.out.println("* "+Frutas[i]);
+           }
+     }
+}
+
+
+
+
