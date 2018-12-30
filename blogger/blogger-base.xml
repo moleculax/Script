@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta http-equiv="Cache-Control" content='max-age=0, no-cache, no-store, private, no-transform'/>
+        <title>
+            <data:blog.title/>
+        </title>
+        <b:skin>
+        </b:skin>
+        
+    </head>
+    <body>
+        <h3 class='text-center'><data:blog.title/></h3>
+        <b:section id="main-wrapper">
+            <b:widget id="Blog3" type="Blog">
+                <b:includable id="main" var="top">
+                    <b:loop values="data:posts" var="post">
+
+                        <b:if cond='data:blog.pageType != "index"'>
+                        
+                        <div class="post">
+
+                            <div class="post-title"><data:post.title/></div>
+                            <div class="post-body"><data:post.body/></div>
+                            <div class="post-footer">Este es un pie de pagina</div>
+
+                        </div>
+
+                        <b:else/>
+                        
+                            <div class="post-title"><a expr:href="data:post.url"><data:post.title/>
+                        </a></div>
+                            <div class="post-body"><data:post.body/></div>
+                            <div class="post-footer">Este es un pie de pagina</div>
+
+
+                    </b:if>
+
+                    </b:loop>
+
+                </b:includable>
+
+            </b:widget>
+        </b:section>
+    </body>
+</html>
+

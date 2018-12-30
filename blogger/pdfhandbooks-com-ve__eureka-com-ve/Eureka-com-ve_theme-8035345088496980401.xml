@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+  <head>
+
+
+<meta content='GRnC25dYRzVVriDdwcf2uuViRN7xPrEqZNIjPLJ2qZM' name='google-site-verification'/>
+
+<meta content='no-transform' http-equiv='Cache-Control'/>
+<meta content='max-age=0' http-equiv='cache-control'/>
+<meta content='no-cache' http-equiv='cache-control'/>
+<meta content='0' http-equiv='expires'/>
+<meta content='Tue, 01 Jan 1980 1:00:00 GMT' http-equiv='expires'/>
+<meta content='no-cache' http-equiv='pragma'/>
+<meta content='max-age=0, no-cache, no-store, private, no-transform' http-equiv='Cache-Control'/>
+    
+
+<link href='https://2.bp.blogspot.com/-hEO_J1uBR28/W0rLle1UbYI/AAAAAAAADek/JBhQnuCIjYAQypour3wKJz_e_W6jnjOIACLcBGAs/s1600/book.ico' rel='icon'/>
+
+<meta content='PDF hand BOOKS Manuales en Pdf Free Web tutorials legal document documentos legales Venezuela technische Handbücher, Computer Akademikern kostenlos zum Download, SQL and DataBases, Bash, Python, Php, Ofensive security Kali Linux, Perl, Ruby, Informix, Cisco Router, Android, Java, Forensics Computer, Arduino, Lenguaje C, Editores, Mysql, PostgreSQL, Oracle, Html, Scrum, Wireles Sensor Net, JQuery, UML, Lecturas Varias, Applications, Vpn, Virtualization, CGI, Autocad, Blender, SSH, Iptables, Apache, Visual Basic, Css, Network Programming, Engineering, Bacula/Backup, Digital Video, Excel, Criptography, Concurrent, Programming, Magazine,Cuentos infantiles, Awk, Unix, Octave, Matlab, Maple, Fiber Optics, Artificial Neural Networks, Network,Administration, Gimp, Macromedia, MariaDB, Assembly Programming, Structured Programming, тэхнічныя дапаможнікі, кампутар акадэмікам спампаваць бясплатна, technische handleidingen, computer academicos, libros, snowder, sin salidas, Gabriel garcia marquez isabel allende, gratis te downloaden, MONGODB manuels techniques,fiber optics, fibra optica, des universitaires informatiques à télécharger gratuitement' name='description'/>
+
+    <meta content='width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1' name='viewport'/>
+    <link href='//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'/>
+
+
+
+    <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' rel='stylesheet'/>
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js'/>
+    <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'/>
+
+    <title>
+BOOKS PDF, COLECCION  de libros de PROGRAMACION, bases de datos, e INFORMATICA EN GENERAL.
+      <data:blog.title/>
+    </title>
+    <b:skin><![CDATA[
+      
+
+    ]]></b:skin>
+    <style type='text/css'>
+      .navbar-default {
+        background-color: #286704;
+        border-color: #063301;
+      }
+      .navbar-default .navbar-brand {
+        color: #ffffff;
+      }
+      .navbar-default .navbar-brand:hover,
+      .navbar-default .navbar-brand:focus {
+        color: #f4f9f5;
+      }
+      .navbar-default .navbar-text {
+        color: #ffffff;
+      }
+      .navbar-default .navbar-nav &gt; li &gt; a {
+        color: #ffffff;
+      }
+      .navbar-default .navbar-nav &gt; li &gt; a:hover,
+      .navbar-default .navbar-nav &gt; li &gt; a:focus {
+        color: #f4f9f5;
+      }
+      .navbar-default .navbar-nav &gt; .active &gt; a,
+      .navbar-default .navbar-nav &gt; .active &gt; a:hover,
+      .navbar-default .navbar-nav &gt; .active &gt; a:focus {
+        color: #f4f9f5;
+        background-color: #063301;
+      }
+      .navbar-default .navbar-nav &gt; .open &gt; a,
+      .navbar-default .navbar-nav &gt; .open &gt; a:hover,
+      .navbar-default .navbar-nav &gt; .open &gt; a:focus {
+        color: #f4f9f5;
+        background-color: #063301;
+      }
+      .navbar-default .navbar-toggle {
+        border-color: #063301;
+      }
+      .navbar-default .navbar-toggle:hover,
+      .navbar-default .navbar-toggle:focus {
+        background-color: #063301;
+      }
+      .navbar-default .navbar-toggle .icon-bar {
+        background-color: #ffffff;
+      }
+      .navbar-default .navbar-collapse,
+      .navbar-default .navbar-form {
+        border-color: #ffffff;
+      }
+      .navbar-default .navbar-link {
+        color: #ffffff;
+      }
+      .navbar-default .navbar-link:hover {
+        color: #f4f9f5;
+      }
+      @media (max-width: 767px) {
+        .navbar-default .navbar-nav .open .dropdown-menu &gt; li &gt; a {
+          color: #ffffff;
+        }
+        .navbar-default .navbar-nav .open .dropdown-menu &gt; li &gt; a:hover,
+        .navbar-default .navbar-nav .open .dropdown-menu &gt; li &gt; a:focus {
+          color: #f4f9f5;
+        }
+        .navbar-default .navbar-nav .open .dropdown-menu &gt; .active &gt; a,
+        .navbar-default .navbar-nav .open .dropdown-menu &gt; .active &gt; a:hover,
+        .navbar-default .navbar-nav .open .dropdown-menu &gt; .active &gt; a:focus {
+          color: #f4f9f5;
+          background-color: #063301;
+        }
+      }
+    </style>
+    <style type='text/css'>
+      .jumbotron {
+        background-image: url(&#39;&#39;);
+        background-color: #063301;
+        color: white;
+        border: 0px solid white;
+      }
+      .label-success {
+        background: #286704;
+      }
+      .btn-primary {
+        background: #286704;
+      }
+
+	.bg-verde { 
+		 background-color: #286704;
+      }	
+
+      .text-white { 
+			color:white;
+		}
+
+.background-container{
+	position: relative;
+	
+	overflow:hidden;
+
+	background: #063301 url(https://3.bp.blogspot.com/-L5Kccb-nxzY/W0tRL_Q3y_I/AAAAAAAADfA/e0JbucuRd0A9LzYB0md_OHxhsrUPwGiLgCLcBGAs/s1600/green.png) no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position:bottom center;
+	}
+
+    </style>
+  </head>
+  <body>
+    <nav class='navbar  navbar-fixed-top navbar-default '>
+      <div class='container-fluid'>
+        <div class='navbar-header'>
+          <button class='navbar-toggle' data-target='#myNavbar' data-toggle='collapse' type='button'>
+            <span class='icon-bar'/>
+            <span class='icon-bar'/>
+            <span class='icon-bar'/>
+            <span class='icon-bar'/>
+          </button>
+          <a class='navbar-brand' href='#'>
+            Eureka/Pdfhandbooks
+          </a>
+        </div>
+        <div class='collapse navbar-collapse' id='myNavbar'>
+          <ul class='nav navbar-nav navbar-right'>
+            <li class='active'>
+              <a href='#'>
+                <span class='glyphicon glyphicon-home'/>
+                Home
+              </a>
+            </li>
+            <li class='dropdown'>
+              <a class='dropdown' data-toggle='dropdown' href='#'><i aria-hidden='true' class='fa fa-folder'/>
+
+
+                Manuales/Books
+              </a>
+              <ul class='dropdown-menu'>
+                <li>
+                  <a href='#programacion'><i aria-hidden='true' class='fa fa-folder-open-o'/>
+
+                   Programming/Programación
+                  </a>
+                </li>
+                <li class='divider'/>
+                <li>
+                  <a href='#basedatos'><i aria-hidden='true' class='fa fa-folder-open-o'/>
+
+                   Data Base/Base de datos
+                  </a>
+                </li>
+                <li class='divider'/>
+                <li>
+                  <a href='#sistemasoperativos'><i aria-hidden='true' class='fa fa-folder-open-o'/>
+
+                    Operating Systems/Sistemas Operativos
+                  </a>
+                </li>
+				<li class='divider'/>
+                <li>
+                  <a href='#redes'><i aria-hidden='true' class='fa fa-folder-open-o'/>
+
+                    Networking/Redes
+                  </a>
+                </li>
+				<li class='divider'/>
+                <li>
+                  <a href='#seguridad'><i aria-hidden='true' class='fa fa-folder-open-o'/>
+
+                    Security/Seguridad
+                  </a>
+                </li>
+				<li class='divider'/>
+                <li>
+                  <a href='#seguridad'><i aria-hidden='true' class='fa fa-folder-open-o'/>
+
+                    Hacking
+                  </a>
+                </li>
+				<li class='divider'/>
+                <li>
+                  <a href='#framework'><i aria-hidden='true' class='fa fa-folder-open-o'/>
+
+                    Framework
+                  </a>
+                </li>
+
+                <li class='divider'/>
+                <li>
+                  <a href='#lectura'><i aria-hidden='true' class='fa fa-folder-open-o'/>
+
+                    Readings/Lectura Variada
+                  </a>
+                </li>
+                <li class='divider'/>
+              </ul>
+            </li>
+            <li>
+              <a href='#acerca'>
+                Acerca/About
+              </a>
+            </li>
+           
+            <li>
+              <a href='http://www.pdfhandbooks.com.ve/2018/06/contactos.html'><i aria-hidden='true' class='fa fa-envelope'/>
+
+                Contactos/Contact
+              </a>
+            </li>
+            <li>
+              <a href='http://emiliogomez.com.ve'><i aria-hidden='true' class='fa fa-users'/>
+
+                Team
+              </a>
+            </li>
+            <li>
+              <a href='#'>
+                <span class='glyphicon glyphicon-user'/>
+                Sign Up
+              </a>
+            </li>
+            <li>
+              <a href='#'>
+                <span class='glyphicon glyphicon-log-in'/>
+                Login
+              </a>
+            </li>
+            <div class='dropdown'/>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <hr/>
+    <div class='jumbotron background-container '>
+      <div class='container  '>
+        <div class='row'>
+          <div class='col-sm-4'>
+            <img alt='Eureka' class='img-circle' src='https://1.bp.blogspot.com/-Qtv4TDe3LcI/Wykpyuf9k2I/AAAAAAAADQs/V0-HwUHc0XcxYGcfPnB2ZcdOGCjsKt1hACLcBGAs/s320/Bdeureka-big.png' title='Manuales y libros gratis.'/>
+          </div>
+          <div class='col-sm-8'>
+            <div class='page-header'>
+              <h3 class='text-white'>
+                <strong>
+                  <H1>Pdf Handbooks/EureKa</H1>
+                </strong>
+              </h3>
+            </div>
+            <h3>
+              <p>
+                En este sitio encontraras un serie de 
+                <strong>
+                  <a href='#'>
+                    <span class='label label-success'>
+                      manuales/Libros
+                    </span>
+                  </a>
+                </strong>
+                en diferentes formatos.
+              </p>
+              <p>
+                This site find a series of Manuals/Books in different formats.
+                Online Library for 
+                <strong>
+                  IT Books - Free
+                </strong>
+              </p>
+            </h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <article id='acerca'/>
+    <div class='container'>
+      <div class='row'>
+        <div class='col-sm-4'>
+          <p>
+            <h3 class='text-center'>
+              <span class='label label-success'>
+                NUESTRA VISIÓN
+              </span>
+          </h3>
+        </p>
+        <p class='text-justify'>
+          Ser una organización referente en el campo del desarrollo, publicación y difusión de material de corte académico, social, científico, y lograr de esta manera una sociedad mas inclusiva y sostenible.
+        </p>
+      </div>
+      <div class='col-sm-4'>
+        <p>
+          <h3 class='text-center'>
+            <span class='label label-success'>
+              NUESTRA MISIÓN
+            </span>
+        </h3>
+      </p>
+      <p class='text-justify'>
+        Impulsar el fortalecimiento de las capacidades por medio del acceso y la participación en medios digitales promoviendo el desarrollo a través de alianzas y redes. 
+      </p>
+    </div>
+    <div class='col-sm-4'>
+      <p>
+        <h3 class='text-center'>
+          <span class='label label-success'>
+            PRINCIPIOS DE EQUIDAD
+          </span>
+      </h3>
+    </p>
+    <p class='text-justify'>
+      Buscamos impulsar la igualdad de oportunidades en el acceso a la información sin ningún tipo de discriminación política, religiosa, genero, discapacidad, o cualquier otra.
+    </p>
+  </div>
+</div>
+</div>
+<div class='container'>
+  <div class='row'>
+    <div class='col-sm-4'>
+      <p>
+        <h3 class='text-center'>
+          <span class='label label-success'>
+            NUESTRO PROPÓSITO
+          </span>
+      </h3>
+    </p>
+    <p class='text-justify'>
+      El propósito fundamental es la recolección, clasificación, generación y difusión de material en formato digital para de esta manera crear un amplio repositorio de manuales, libros, guías y documentos, los cuales serán puesto a disposición sin costo alguno al publico en general para de esa manera acortar las brechas existentes en algunos sectores de la sociedad. 
+    </p>
+  </div>
+  <div class='col-sm-4'>
+    <p>
+      <h3 class='text-center'>
+        <span class='label label-success'>
+          COLABORADORES
+        </span>
+    </h3>
+  </p>
+  <p class='text-justify'>
+    Si usted esta interesado en colaborar solo tiene que ponerse en contacto e indicar en que esta dispuesto, la colaboración esta centrada en el aporte de manuales elaborados a partir de sus apuntes técnicos u otro tipo, script funcionales en diferentes lenguajes de programación, etc. Solo tiene que ponerse en contacto, manifestar sus inquietudes y a la brevedad le responderemos. 
+  </p>
+</div>
+<div class='col-sm-4'>
+  <p>
+    <h3 class='text-center'>
+      <span class='label label-success'>
+        ACERCA DE...
+      </span>
+  </h3>
+</p>
+<p class='text-justify'>
+  Partimos de la motivación de poner a disposición de todo aquel interesado una serie de manuales para que estos puedan fortalecer sus desarrollo académico/profesional/personal en diferentes áreas. Esperamos contar con su contribución y participación para continuar creciendo. 
+</p>
+<button class='btn btn-primary' data-target='#ModalLong' data-toggle='modal' type='button'>
+Eureka!!
+</button>
+
+
+</div>
+</div>
+</div>
+<!-- Enlaces libros -->
+<!--Container programación -->
+<article id='programacion'/>
+<div class='container-fluid'>
+  <div class='row'>
+    <div class='col-ms-12'>
+      <h3 class='text-center'>
+        <div class='page-header'>
+          <H3> PROGRAMACIÓN/PROGRAMMING</H3>
+        </div>
+      </h3>
+    </div>
+  </div>
+</div>
+<div class='container'>
+  <div class='row'>
+    <div class='col-sm-3  text-center'>
+      <div class='thumbnail'>
+        <img src='https://1.bp.blogspot.com/-M5sevrKN3ck/Wykp2Rr70GI/AAAAAAAADR8/BWMpg_pxd3gjVStX7PW1xxrEx0VflRgfgCLcBGAs/s1600/php.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/php.html' role='button'>
+            Php
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://4.bp.blogspot.com/-Fm63AOaHwYk/Wykp2z5LqAI/AAAAAAAADSE/LmUbhxgDr9we3uEcHrtPmWMYHwnLSORUwCLcBGAs/s1600/python.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/python.html' role='button'>
+            Python
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://4.bp.blogspot.com/-_PCdJ2R6vg4/Wykp0LK5PxI/AAAAAAAADRI/KqymHP4UyFEBKEAlxSrkOyFahy3tEcr_QCLcBGAs/s1600/cnumeral.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/c.html' role='button'>
+            C#
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://2.bp.blogspot.com/-Dwz55JCqf4Y/Wykpz3BjRnI/AAAAAAAADRE/t9uuI6OFjAQKe7jCtxubknqVvoWP970RwCLcBGAs/s1600/c.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/c_21.html' role='button'>
+            C
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class='container'>
+  <div class='row'>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://1.bp.blogspot.com/-SYJ62Zi5914/Wykp0bD8mLI/AAAAAAAADRQ/ufhVJw_Sh5MeZ3ovgsnzITAT4Oo9eWetACLcBGAs/s1600/cpp.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/c_46.html' role='button'>
+            C++
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://1.bp.blogspot.com/-lO82qPArqx4/Wykp3YorADI/AAAAAAAADSM/v-MjDQasETQSurDjHaV9ZBzmDLdNpds3gCLcBGAs/s1600/ruby.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/ruby.html' role='button'>
+            Ruby
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://1.bp.blogspot.com/-KP6nVpoG-e8/Wykp0-WlhMI/AAAAAAAADRY/SEX69clm5JcwJeCQ8I4FcmPaRPZQ-P5_ACLcBGAs/s1600/java.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/java.html' role='button'>
+            Java
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://3.bp.blogspot.com/-bINcwazLx44/Wykp4E211hI/AAAAAAAADSc/o_vHGz3jmrQNCu3s4SG4aeo3ACqlVwligCLcBGAs/s1600/vbasic.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/visual-basic.html' role='button'>
+            Visual Basic
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class='container'>
+  <div class='row'>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://4.bp.blogspot.com/-C-JbsAnatBs/Wykp2NCGFEI/AAAAAAAADR0/H9gT7elBlHgJdTQMPQiJl5SNzcRQh1BQQCLcBGAs/s1600/perl.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/perl.html' role='button'>
+            Perl
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://4.bp.blogspot.com/-NhdxKhRdTKI/Wykp1L7IwzI/AAAAAAAADRg/KkugHfLqmZcQx1Pnc87fWaqCM-rPrB6cQCLcBGAs/s1600/javascript.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/java-script.html' role='button'>
+            Java Script
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://3.bp.blogspot.com/-XRtz7TSTDxc/Wykp2a3C86I/AAAAAAAADR4/Ro9hhvy6hCYTrs2JZZySEhdc1q0DyxhGwCLcBGAs/s1600/plsql.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/plsql.html' role='button'>
+            PL/SQL
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://2.bp.blogspot.com/-vFyjl-u8_5c/WykpzrqSV1I/AAAAAAAADQ8/HSM42nh7MUYEcnY_3zrKscsgmVSYgDyxgCLcBGAs/s1600/bash.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/bash.html' role='button'>
+            Bash
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class='container'>
+  <div class='row'>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://1.bp.blogspot.com/-ho1MCmoE-7o/WykpzYdCPyI/AAAAAAAADQ4/Jv873wcklA4YgJPAak5XTltsACO7ddS9wCLcBGAs/s1600/android.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/android.html' role='button'>
+            Android
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://3.bp.blogspot.com/-psxl-bmk8CA/WykpzjjQHaI/AAAAAAAADRA/BICRxVS5X8oEa080g97VGysN8DKZBQMwgCLcBGAs/s1600/asp.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/asp.html' role='button'>
+            Asp
+          </a>
+        </div>
+      </div>
+    </div>
+
+ 
+
+
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://3.bp.blogspot.com/-5mWaI9b6wQ8/Wykp1cW1gHI/AAAAAAAADRk/wBTRgrYOQv8umxwV56iqzmi7tP3K4iKoACLcBGAs/s1600/maple.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/maple.html' role='button'>
+            Maple
+          </a>
+        </div>
+      </div>
+    </div>
+
+
+   <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://4.bp.blogspot.com/-YK4OmIjQw1s/W0GL3845BiI/AAAAAAAADa0/rWjvNBHOUFQ7x7m7QLfmUxGPEN6ZEXgyQCLcBGAs/s1600/linuxProgramming.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/07/linux-programming.html' role='button'>
+            Linux Programming
+          </a>
+        </div>
+      </div>
+    </div>
+
+
+
+
+  </div>
+</div>
+<!--Container Base Datos -->
+<article id='basedatos'/>
+<div class='container-fluid'>
+  <div class='row'>
+    <div class='col-ms-12 '>
+      <h3 class='text-center'>
+        <div class='page-header'>
+          <H3>  BASES DE DATOS/DATA BASE</H3> 
+        </div>
+      </h3>
+    </div>
+  </div>
+</div>
+<div class='container'>
+  <div class='row'>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://4.bp.blogspot.com/-qKz4otuiUGo/Wykp1htsuJI/AAAAAAAADRs/p4wyNmhDYyUKuc5xAiUZeezqr_BiuThVgCLcBGAs/s1600/mysql.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/mysql.html' role='button'>
+            Mysql
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://1.bp.blogspot.com/-C-wyX9axiGU/Wykp2uXx3SI/AAAAAAAADSA/hhvXWIpDm1c5chbtn9DtlG6dynOgdjgqgCLcBGAs/s1600/postgresql.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/postgresql.html' role='button'>
+            PostgreSQL
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://3.bp.blogspot.com/-TiZerN0SaBY/Wykp18-soII/AAAAAAAADRw/OqkwfHPXnK0vPT37TmRxyjsw3ckZxM2BgCLcBGAs/s1600/oracle.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/oracle.html' role='button'>
+            Oracle
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://2.bp.blogspot.com/-9jqPNVCinqs/Wykp0-knt0I/AAAAAAAADRc/Ov0jWm8nCPY9Yp9gk7ox34rZLmkF67wUACLcBGAs/s1600/informix.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/informix.html' role='button'>
+            Informix
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class='container'>
+  <div class='row'>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://1.bp.blogspot.com/-0ZwQ2tEkt8Y/Wykp1TWQdpI/AAAAAAAADRo/OhRFAAUrcyIP8XXlkwCBb6PL-atFqcMtQCLcBGAs/s1600/mariadb.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/maridb.html' role='button'>
+            MariaDB
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://4.bp.blogspot.com/-hKK5b3tm2_k/WykpyrzU-DI/AAAAAAAADQ0/dByww1r7HlILJMPDNPGl-_tpn8-CdfLPwCLcBGAs/s1600/access.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/access.html' role='button'>
+            Access
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://2.bp.blogspot.com/-5J16Q7uPlq0/Wykp3trbftI/AAAAAAAADSQ/3fRzGO2Si4YbNun7_h7V4j_AKLRtg06RgCLcBGAs/s1600/sqlservers.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/sqlservers.html' role='button'>
+            SQL Servers
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://3.bp.blogspot.com/-v3YJiRuDiHQ/Wykp34AIxhI/AAAAAAAADSU/IolmdtWBvqsp2kD8pxPOHCB7ykuGtDKWwCLcBGAs/s1600/sybase.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/sybase.html' role='button'>
+            Sybase
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class='container'>
+<div class='row'>
+
+ <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://1.bp.blogspot.com/-jWsBckznJJI/XCAGweRmjFI/AAAAAAAAAoY/fhJbdlAI9UsCqhQzerkl3VvWiLtNY8tcwCLcBGAs/s1600/mongodb-logo.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/12/mongodb.html' role='button'>
+            MongoDB
+          </a>
+        </div>
+      </div>
+    </div>
+
+
+
+
+     </div>
+    </div>
+
+
+
+<article id='sistemasoperativos'/>
+<div class='container-fluid'>
+  <div class='row'>
+    <div class='col-sm-12'>
+      <h3 class='text-center'>
+        <div class='page-header'>
+          <H3>  SISTEMAS OPERATIVOS/OS</H3> 
+        </div>
+      </h3>
+    </div>
+  </div>
+</div>
+<div class='container'>
+  <div class='row'>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://2.bp.blogspot.com/-avV0xQDl6lM/Wykp0jNrFbI/AAAAAAAADRU/PTXRXWkI9kE90V4yqPr7ZYF3xfGv06j9ACLcBGAs/s1600/debian.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/debian.html' role='button'>
+            Debian
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://2.bp.blogspot.com/-qCjT0QCqa-4/Wykp3EYDuPI/AAAAAAAADSI/ytkMXl5lpvg0juXjS5JjNS0VpIvyHCTNACLcBGAs/s1600/redhat.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/red-hat.html' role='button'>
+            Red Hat
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://2.bp.blogspot.com/-7vtQvxfCjk0/Wykp31jUcBI/AAAAAAAADSY/QAYznaiJhlMi2F4muuXfM1ZBGFBMR-SDACLcBGAs/s1600/ubuntu.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/ubuntu.html' role='button'>
+            ubuntu
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://2.bp.blogspot.com/-70NiXbgtHLY/Wyzl0dbzAbI/AAAAAAAADTw/zcblz-UvFWcmDtUTJYDyUT3jharrw3beACLcBGAs/s1600/kali.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/kali.html' role='button'>
+            Kali
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class='container'>
+  <div class='row'>
+
+    <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+<img src='https://2.bp.blogspot.com/-miCguaEfhms/WzAEjopA9JI/AAAAAAAADUY/2nJxaUTEFFMoGBVtnwhsEgLIMZkjsafwQCLcBGAs/s1600/freebsd.png'/>
+<div class='caption'>
+        <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/freebsd.html' role='button'>FreeBSD</a>
+</div>
+      </div>
+</div>
+
+<div class='col-sm-3 text-center'>
+     <div class='thumbnail'>
+<img src='https://3.bp.blogspot.com/-oY15fL1jy7U/WzJsrkrgdII/AAAAAAAADUo/ucU99sMXPjEC4rPtRHhbLETAf6t7Yzh7gCLcBGAs/s1600/centos.png'/>
+<div class='caption'>
+        <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/centos.html' role='button'>CentOS</a>
+</div>
+      </div>
+      </div>
+
+<div class='col-sm-3 text-center'>
+     <div class='thumbnail'>
+<img src='https://2.bp.blogspot.com/-BRZEyyjK5Ls/WzJtXtkftrI/AAAAAAAADU4/3are501wrqg3_NXtX_cyBaK-5AbV97I9QCLcBGAs/s1600/slackware.png'/>
+<div class='caption'>
+        <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/slackware.html' role='button'>Slackaware</a>
+</div>
+      </div>
+      </div>
+
+<div class='col-sm-3 text-center'>
+     <div class='thumbnail'>
+<img src='https://2.bp.blogspot.com/-pMGEoMiJQJc/WzJsrk7v6-I/AAAAAAAADUk/a1Zw81fcrsM9IDmYhcSqMMfkh-7y_B91wCLcBGAs/s1600/OpenSUSE.png'/>
+<div class='caption'>
+        <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/opensuse.html' role='button'>OpenSUSE</a>
+</div>
+      </div>
+      </div>
+
+
+</div>
+</div>
+
+<article id='redes'/><article id='seguridad'/><article id='google'/>
+<div class='container-fluid'>
+  <div class='row'>
+    <div class='col-ms-12'>
+      <h3 class='text-center'>
+        <div class='page-header'>
+          <H3>  NETWORKING/REDES - SECURITY/SEGURIDAD - HACKING -FRAMEWORK</H3> 
+        </div>
+      </h3>
+    </div>
+  </div>
+</div>
+
+<div class='container'>
+<div class='row'>
+<div class='col-sm-3 text-center'>
+<div class='thumbnail'>
+      <img src='https://1.bp.blogspot.com/-ADy6-9xDvr4/WzLhJ5-9epI/AAAAAAAADVg/05nwVyBbSPkD3HNjqHZIloEj0YItLjt_gCLcBGAs/s1600/networking.png'/>
+ <div class='caption'>
+<a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/networking.html' role='button'>Networking</a>
+</div>
+</div>
+</div>
+
+<div class='col-sm-3 text-center'>
+<div class='thumbnail'>
+      <img src='https://2.bp.blogspot.com/-o04TpLs4TAo/WzQy5ZPrB7I/AAAAAAAADV0/xMlzMz2Ly60MKChYYdGW8doYuJZWk9MKACLcBGAs/s1600/security.jpeg'/>
+ <div class='caption'>
+<a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/security.html' role='button'>Security</a>
+</div>
+</div>
+</div>
+
+<div class='col-sm-3 text-center'>
+<div class='thumbnail'>
+      <img src='https://2.bp.blogspot.com/-pNujRSAf6xw/WzLhH74ix6I/AAAAAAAADVc/JgPtkI_MwT0VWOX__1aFvbmkmaDaTnvdwCLcBGAs/s1600/hacking.jpg'/>
+ <div class='caption'>
+<a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/hacking.html' role='button'>Hacking</a>
+</div>
+</div>
+</div>
+
+<div class='col-sm-3 text-center'>
+<div class='thumbnail'>
+      <img src='https://1.bp.blogspot.com/-pMRGpry-i9U/WzQ_09I-dlI/AAAAAAAADWI/Fecx48v2fNIAd7kCd-ubpkk4jRi0042igCLcBGAs/s1600/google-logo-1.jpg'/>
+ <div class='caption'>
+<a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/google.html' role='button'>Google Tool</a>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class='container'>
+<div class='row'>
+
+<div class='col-sm-3 text-center'>
+<article id='framework'/>
+<div class='thumbnail'>
+<img src='https://1.bp.blogspot.com/-PHWsoqTMnYQ/WzZwY6ecI1I/AAAAAAAADWg/OMKK7DlJt0MQYR5k5JfniNq8flccywWRwCLcBGAs/s1600/wordpress.png'/>
+<div class='caption'>
+<a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/wordpress.html'>Wordpress
+
+  </a>
+  </div>
+  </div>
+  </div>
+
+<div class='col-sm-3 text-center'>
+<div class='thumbnail'>
+<img src='https://3.bp.blogspot.com/-2LeNTvjDD-g/WzjPGU-P22I/AAAAAAAADW8/FaryXmNrrrwxD9y25DA90OBrTs2WzueLQCLcBGAs/s1600/laravel.png'/>
+<div class='caption'>
+<a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/07/laravel.html'>Laravel
+  </a>
+  </div>
+  </div>
+  </div>
+
+<div class='col-sm-3 text-center'>
+<div class='thumbnail'>
+<img src='https://1.bp.blogspot.com/-cvWrdhsWU3o/W0DtAwvlT_I/AAAAAAAADao/pGJq6wVK3tojTEjYk0lrLVs_MAxa9D42wCLcBGAs/s1600/symfony.png'/>
+<div class='caption'>
+<a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/07/symfony.html'>Symfony
+  </a>
+  </div>
+  </div>
+  </div>
+
+ <div class='col-sm-3 text-center'>
+      <div class='thumbnail'>
+        <img src='https://3.bp.blogspot.com/-dGWZN2bT__w/WyzijLdfp9I/AAAAAAAADTU/uyjo9ovIeMA7zc-69hK9juCjJmCX2q8mQCLcBGAs/s1600/bootstrap.png'/>
+        <div class='caption'>
+          <a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/bootstrap.html' role='button'>
+            Bootstrap
+          </a>
+        </div>
+      </div>
+    </div>
+
+
+
+  </div>
+</div>
+
+
+<article id='lectura'/>
+<div class='container-fluid'>
+  <div class='row'>
+    <div class='col-sm-12'>
+      <h3 class='text-center'>
+        <div class='page-header'>
+          <H3>  LECTURAS VARIADAS/READINGS</H3> 
+        </div>
+      </h3>
+    </div>
+  </div>
+</div>
+
+<div class='container'>
+<div class='row'>
+<div class='col-sm-3 text-center'>
+<div class='thumbnail'>
+  <img src='https://3.bp.blogspot.com/-4zUJrNYHXZc/WzjQsZAy98I/AAAAAAAADXI/ydo-KOZvSG8u9QHsLOTPHYFaE31tkthBwCLcBGAs/s1600/booksPdf.jpeg'/>
+ <div class='caption'>
+<a class='btn btn-primary' href='http://www.pdfhandbooks.com.ve/2018/06/lecturas-variadas.html' role='button'>Lecturas/Readings</a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<h3 class='text-center'><data:blog.title/></h3>
+		<b:section id='main'/>
+
+<!-- Inicio Modal -->
+
+<div aria-hidden='true' aria-labelledby='exampleModalLongTitle' class='modal fade' id='ModalLong' role='dialog' tabindex='-1'>
+  <div class='modal-dialog' role='document'>
+    <div class='modal-content'>
+      <div class='modal-header bg-verde '>
+        <h3 class='modal-title text-white' id='ModalLongTitle'>Eureka</h3>
+        <button aria-label='Close' class='close' data-dismiss='modal' type='button'>
+          <span aria-hidden='true'/>
+        </button>
+      </div>
+      <div class='modal-body text-justify'>
+        <img align='left' height='150' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Minor_Planets_-_Martian_L5.svg/125px-Minor_Planets_-_Martian_L5.svg.png' width='150'/>
+        Al contrario de lo que puedas pensar el nombre de este web site no se debe a la famosa palabra de Arquímedez.<br/>
+        Este sítio de llama Eureka en honor al <a href='https://es.wikipedia.org/wiki/Asteroide_troyano' target='_blank'>asteroide Troyano</a> que forma parte del grupo de los asteroides que cruzan la órbita de Marte, el cual fue descubierto por <a href='https://es.wikipedia.org/wiki/David_Levy_(astr%C3%B3nomo)' target='_blank'> David H. Levy</a> y <a href='https://es.wikipedia.org/wiki/Henry_E._Holt' target='_blank'>Henry E. Holt</a> el 20 de junio de 1990 desde el observatorio del Monte Palomar, Estados Unidos.<br/>
+        Para mas información sobre el asteroide Eureka visite: <a href='https://es.wikipedia.org/wiki/(5261)_Eureka' target='_blank'>Wikipedia</a>.
+<p>
+  <hr/>
+Eureka is the first Mars trojan discovered. It was discovered by David H. Levy and Henry Holt at Palomar Observatory on June 20, 1990, from the Palomar Observatory. It trails Mars (at the L5 point) at a distance varying by only 0.3 AU during each revolution (with a secular trend superimposed, changing the distance from 1.5&#8211;1.8 AU around 1850 to 1.3&#8211;1.6 AU around 2400). Minimum distances from the Earth, Venus, and Jupiter, are 0.5, 0.8, and 3.5 AU, respectively. 
+ </p>
+
+
+
+      </div>
+      <div class='modal-footer'>
+        <button class='btn btn-primary' data-dismiss='modal' type='button'>Cerrar</button>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+<!--Fin Modal -->
+<center><small>Powered by<br/><a href='http://emiliogomez.com.ve'>http://www.emiliogomez.com.ve</a></small></center>
+
+
+
+
+
+</body>
+</html>
