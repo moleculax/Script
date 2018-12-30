@@ -1,0 +1,27 @@
+ 
+[compartido] 
+
+comment = Archivos Compartidos (Mi Pc) 
+
+path = /home/nombreUsuario/compartido 
+
+browseable = yes 
+
+read only = no 
+
+guest ok = yes 
+
+writable = yes 
+
+valid users = nombreUsuario
+
+Pero aqui no termina todo ya que nos falta crear el usuario samba, para lo cual debemos ejecutar:
+
+#smbpasswd -a nombreUsuario
+New SMB password: <- colocamos clave 
+Retype new SMB password: <- volvemos a escribir la clave
+
+Reiniciamos Samba:
+
+#/etc/init.d/./samba restart
+

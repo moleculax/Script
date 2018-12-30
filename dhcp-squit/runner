@@ -1,0 +1,15 @@
+#!/bin/sh 
+#configuramos tarjeta de red para eth0:1
+ifconfig eth0:1 10.10.1.1 netmask 255.255.255.0
+
+#Soporte de IP Forwarding en el kernel
+echo 1 > /proc/sys/net/ipv4/ip_forward
+iptables --flush
+#permite el paso de la informacion entre las dos redes
+iptables -A INPUT -i eth0 -j ACCEPT
+#define las reglas de enmascaramiento en la tarjeta que brinda conexion
+iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
+iptables -A FORWARD -i eth0 -j ACCEPT
+
+exec /etc/init.d/dhcp3-server start
+

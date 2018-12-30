@@ -1,0 +1,42 @@
+#!/bin/sh
+
+iptables  -F
+
+#cierra puerto FTP
+iptables -A INPUT -p tcp --dport 20:21 -j REJECT
+
+#cierre ssh
+#iptables -A INPUT -p tcp --dport 22 -j DROP
+
+#Bloquea Microsoft-DS (Active Directory, compartición en Windows)
+iptables -A INPUT -p tcp --dport 445 -j DROP
+
+#Bloquear la IP
+iptables -A INPUT -s  181.181.2.7 -j DROP 
+iptables -A INPUT -s  181.181.1.14 -j DROP 
+
+#Al nuestra IP le dejamos todo
+iptables -A INPUT -s 181.181.2.2 -j ACCEPT
+ 
+#Acepta trafico perteneciente a TCP
+#iptables -A INPUT -p tcp -j ACCEPT
+
+#Rechaza trafico de entrada UDP
+#iptables -A INPUT -p UDP -j DROP
+
+#Al  servidor Proxy le dejamos todo
+iptables -A INPUT -s 181.181.2.1 -j ACCEPT
+#iptables -A INPUT -s 181.181.1.2 -j ACCEPT
+
+#iptables -A INPUT -s 181.181.2.2 -p tcp --dport 22 -j ACCEPT
+#iptables -A INPUT -s 181.181.1.2 -p tcp --dport 22 -j ACCEPT
+#iptables -A INPUT -s 181.181.2.1 -p tcp --dport 22 -j ACCEPT
+
+#BLOQUEAMOS ALGUNAS PAGINAS PARA EL DHCP 
+
+#iptables -A INPUT -s www.facebook.com -j DROP
+#iptables -A OUTPUT -d www.facebook.com -j DROP
+#iptables -I INPUT -s 69.63.181.12 -j DROP  #Ip relacionado facebook
+
+	
+
